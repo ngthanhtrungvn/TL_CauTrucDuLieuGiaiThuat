@@ -1,0 +1,10 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  bai1.cpp
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(53,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(74,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(80,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(180,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(185,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(189,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\cayNhiPhan\bai1.cpp(183,9): warning C4101: 'a': unreferenced local variable
+  cayNhiPhan.vcxproj -> D:\Workspace\C\ctdl&gt\cay\cayNhiPhan\Debug\cayNhiPhan.exe

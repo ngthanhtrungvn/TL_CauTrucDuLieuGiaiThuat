@@ -1,0 +1,8 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  BST.cpp
+D:\Workspace\C\ctdl&gt\cayNhiPhan\cayNhiPhan\BST.cpp(50,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\cayNhiPhan\cayNhiPhan\BST.cpp(55,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\cayNhiPhan\cayNhiPhan\BST.cpp(63,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\cayNhiPhan\cayNhiPhan\BST.cpp(66,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\cayNhiPhan\cayNhiPhan\BST.cpp(70,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  cayNhiPhan.vcxproj -> D:\Workspace\C\ctdl&gt\cayNhiPhan\Debug\cayNhiPhan.exe

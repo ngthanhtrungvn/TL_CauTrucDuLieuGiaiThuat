@@ -1,0 +1,4 @@
+4
+BS01#Nguyen Van A#ABC#khoa ngoai
+BS02#Nguyen Van B#123#sinh san
+BS03#Nguyen Van C#345#khoa noi

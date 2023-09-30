@@ -1,0 +1,30 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  SoNguyen.cpp
+  DocFile.cpp
+F:\BangBam\BangBam\DocFile.cpp(27,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+F:\BangBam\BangBam\DocFile.cpp(59,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+F:\BangBam\BangBam\DocFile.cpp(131,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(133,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(135,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(139,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(332,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(334,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(336,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(338,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(348,28): warning C4474: 'printf' : too many arguments passed for format string
+F:\BangBam\BangBam\DocFile.cpp(348,28): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+F:\BangBam\BangBam\DocFile.cpp(382,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\BangBam\BangBam\DocFile.cpp(473,43): warning C4474: 'printf' : too many arguments passed for format string
+F:\BangBam\BangBam\DocFile.cpp(473,43): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+F:\BangBam\BangBam\DocFile.cpp(397,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(420,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(429,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(446,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(474,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(483,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\BangBam\BangBam\DocFile.cpp(499,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  Generating Code...
+F:\BangBam\BangBam\DocFile.cpp(272): warning C4715: 'Pop': not all control paths return a value
+F:\BangBam\BangBam\DocFile.cpp(306): warning C4715: 'RemoveDiem': not all control paths return a value
+  LINK : F:\BangBam\Debug\BangBam.exe not found or not built by the last incremental link; performing full link
+  BangBam.vcxproj -> F:\BangBam\Debug\BangBam.exe

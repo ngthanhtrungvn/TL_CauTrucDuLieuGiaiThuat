@@ -1,0 +1,15 @@
+14
+Noise#On Ao#13#0.2
+Quiet#Yen Lang#3#0.3
+Love#Tinh Yeu#3#0.3
+What#Cai Gi#31#0.3
+Interesting#An Tuong#31#0.4
+Father#Cha#12#0.5
+Mother#Me#31#0.5
+Sun#Mat troi#31#0.6
+Moon#Mat trang#42#0.7
+Computer#May tinh#5#0.5
+Hand#Ban Tay#42#0.55
+People#Nguoi#56#0.3
+Mouse#Chuot#75#0.4
+Student#Hoc sinh#9#0.3

@@ -1,0 +1,17 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Source.cpp
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(107,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(108,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(112,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(123,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(128,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(596,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(601,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(613,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(623,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(630,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(699,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(714,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(796,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+C:\Users\admin\Downloads\Compressed\bt_dslk\bt_dslk\Source.cpp(569): warning C4715: 'timNodeGiua': not all control paths return a value
+  bt_dslk.vcxproj -> C:\Users\admin\Downloads\Compressed\bt_dslk\Debug\bt_dslk.exe

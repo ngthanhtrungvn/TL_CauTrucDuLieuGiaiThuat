@@ -1,0 +1,26 @@
+﻿Build started 12/15/2020 8:07:49 AM.
+     1>Project "C:\Users\acer\Desktop\Tuan6\OnTapLanCuoi\OnTapLanCuoi\OnTapLanCuoi.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt DaoChuoi.cpp
+         DaoChuoi.cpp
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(155): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(182): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(232): warning C4244: 'argument' : conversion from 'int' to 'ItemType1', possible loss of data
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(280): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(288): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(300): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(312): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\acer\desktop\tuan6\ontaplancuoi\ontaplancuoi\daochuoi.cpp(274): warning C4101: 's' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\acer\Desktop\Tuan6\OnTapLanCuoi\Debug\OnTapLanCuoi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\acer\Desktop\Tuan6\OnTapLanCuoi\Debug\OnTapLanCuoi.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\acer\Desktop\Tuan6\OnTapLanCuoi\Debug\OnTapLanCuoi.lib" /MACHINE:X86 Debug\DaoChuoi.obj
+         OnTapLanCuoi.vcxproj -> C:\Users\acer\Desktop\Tuan6\OnTapLanCuoi\Debug\OnTapLanCuoi.exe
+     1>Done Building Project "C:\Users\acer\Desktop\Tuan6\OnTapLanCuoi\OnTapLanCuoi\OnTapLanCuoi.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.89

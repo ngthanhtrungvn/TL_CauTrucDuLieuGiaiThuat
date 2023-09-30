@@ -1,0 +1,19 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  BTree.cpp
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(28,2): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(68,23): warning C4996: 'strcmpi': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strcmpi. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(172,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(177,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(182,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(193,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(199,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(203,11): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'ItemType'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(327,13): warning C4778: 'fscanf' : unterminated format string '%[]#%s'
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(327,23): warning C4474: 'fscanf' : too many arguments passed for format string
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(327,23): message : placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(321,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(323,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien1\TuDien1\BTree.cpp(327,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  TuDien1.vcxproj -> D:\Workspace\C\ctdl&gt\TuDien1\Debug\TuDien1.exe

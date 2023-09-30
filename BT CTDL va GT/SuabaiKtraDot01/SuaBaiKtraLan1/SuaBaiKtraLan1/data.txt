@@ -1,0 +1,6 @@
+5
+HS01 PhanNguyenHaMinh 0 18 03 2001
+HS02 DangHoangTuyetMy 0 27 10 2001
+HS03 DuongDongDuy 1 05 07 2001
+HS04 PhanNguyenQuocHuy 1 21 09 2004
+HS05 PhanPhamPhuongVy 0 27 02 2003

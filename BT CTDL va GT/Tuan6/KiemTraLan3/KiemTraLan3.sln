@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KiemTraLan3", "KiemTraLan3\KiemTraLan3.vcxproj", "{C489CDFC-1110-476F-8960-F1F10E4533FF}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ktra03_Bai02", "Ktra03_Bai02\Ktra03_Bai02.vcxproj", "{F1DC6D8E-4844-4154-B95B-8385ECB02208}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C489CDFC-1110-476F-8960-F1F10E4533FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C489CDFC-1110-476F-8960-F1F10E4533FF}.Debug|Win32.Build.0 = Debug|Win32
+		{C489CDFC-1110-476F-8960-F1F10E4533FF}.Release|Win32.ActiveCfg = Release|Win32
+		{C489CDFC-1110-476F-8960-F1F10E4533FF}.Release|Win32.Build.0 = Release|Win32
+		{F1DC6D8E-4844-4154-B95B-8385ECB02208}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F1DC6D8E-4844-4154-B95B-8385ECB02208}.Debug|Win32.Build.0 = Debug|Win32
+		{F1DC6D8E-4844-4154-B95B-8385ECB02208}.Release|Win32.ActiveCfg = Release|Win32
+		{F1DC6D8E-4844-4154-B95B-8385ECB02208}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

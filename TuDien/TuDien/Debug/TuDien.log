@@ -1,0 +1,6 @@
+﻿  BST.cpp
+D:\Workspace\C\ctdl&gt\TuDien\TuDien\BST.cpp(80,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien\TuDien\BST.cpp(83,2): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien\TuDien\BST.cpp(88,3): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Workspace\C\ctdl&gt\TuDien\TuDien\BST.cpp(72): warning C4715: 'deleteTNode': not all control paths return a value
+  TuDien.vcxproj -> D:\Workspace\C\ctdl&gt\TuDien\Debug\TuDien.exe
